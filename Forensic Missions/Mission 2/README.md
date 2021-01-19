@@ -15,7 +15,7 @@ Mission description (detailed)::
 
 As the forensic specialist for our law firm, are you able to detect any digital manipulation within this image?
  
-![alt text](https://https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%202/selfie.jpg?raw=true)
+https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%202/selfie.jpg
 
 How do we get started?
 	
