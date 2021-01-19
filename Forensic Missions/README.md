@@ -1,4 +1,4 @@
-<b><u>Forensic Missions</u></b><br>
+<b>Forensic Missions</b><br>
 
 These missions are designed to test your skills in finding that which isn't there.
 
@@ -28,6 +28,6 @@ General mission overview:
             Submit type:: Flag 
             Flag form:: HTS {flag_here}
 
-<b><u>Mission completion rules::</u></b>
+<b>Mission completion rules::</b>
 
 	You have to submit the relevant flags or passwords which are hidden.
