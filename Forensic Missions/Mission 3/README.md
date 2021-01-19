@@ -30,6 +30,9 @@ I am also thinking about that every other file except siggies.txt is just a deco
 
 I am thinking about this one because the ssh.jpg properties say this is a 500 * 500 jpg file with a dpi of 100px so this must contain other elements as well. Especialy if we compare the file sizes with the other jpgs. 
 
+	shh.jpg
+<img src="https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%203/shh.jpg">
+
 Could be this big but I do feel it has to do with the solution.
 
 I have run spectrum analisys on the audio file nothing there also tried to change its extension for some might be hidden stuff but nothing there as well. So lets just consider this as well as a dummy file too.
