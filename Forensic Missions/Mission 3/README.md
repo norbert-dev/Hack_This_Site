@@ -70,7 +70,7 @@ To do that we contribute and thank Nick Duely for a python code. See attached.
 
 Lets run this code.
     
-    ```
+```
     #Open and read the binary data of the image file
 #Change the file path below to ensure it points to where you've stored the "shh.jpg" file
 f = open("/root/Documents/Forensic 3/flashdrive/shh.jpg", "rb")
@@ -130,7 +130,7 @@ for fi in range(start, len(File_List)):
         file.write(bytearray(Byte_List))
         file.close()
         File_Number += 1
-    ```
+```
     
 After runing the code we have extracted 2 rar files and 3 images.
 
