@@ -50,6 +50,8 @@ So lets open up the ssh.jpg in a hex viewer.
 Luckily https://hexed.it/ is more than enough for this purpose. 
 Now let's see the siggies.txt as well. 
 
+<img src="https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%203/shh_hex_view.jpg">
+
 What do we know about jpgs? 
 
 They always have a given header wich is followed by a given trailer.
