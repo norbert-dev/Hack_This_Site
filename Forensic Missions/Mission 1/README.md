@@ -3,7 +3,7 @@ Mission 1::
         	Title:: First Time Go
             Brief:: Recover the deleted password file.
             Difficulty:: Easy
-	    Submit type:: Password
+	    	Submit type:: Password
             
 Mission description (detailed)::
 
