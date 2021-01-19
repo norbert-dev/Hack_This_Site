@@ -101,3 +101,5 @@ No we can open the "Your new password is.rar" file and the doc file inside.
 And here we are the solution password is there.
     
     Password is:: qPYgbs0w5&?i{8a
+    
+This wasn't that hard wasn't it?
