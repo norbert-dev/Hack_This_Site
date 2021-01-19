@@ -27,25 +27,29 @@ In our case for now we can only download the given recovery file attachment.
 
 Lets do it so.
 
-After downloading this we will have a 
+After downloading this we will have an 
     image.tar.gz 
 compressed file.
     
 This can be extracted with pretty much anything. We need to do this twice to access the given recovery image.
-this is gona be a 
-    << image.dd >>.
+Extraction will give us this file. 
+
+    image.dd
     
 Now as always we hit a wall here. 
 
     Whats a "dd" file??
 
-Lets do what a good IT shaq person would do and lets ask google.
+Lets do what a good IT shaq person would do and lets ask our best friend *GOOGLE.
     
 Google says that 
+
     a *.dd file is a disk image file and replica of a hard disk drive.
     
 Thats more than enough to know for now. 
-So we know its a disk image which is like *.iso etc. So we need a tool to attach it to our system. Lets use google again.
+So we know its a disk image which is like *.iso etc. 
+
+So we need a tool to attach it to our system. Lets use google again.
     
 I personaly used OSF Mount this can handle *.dd files. 
 After attaching the image.dd as a HDD in OSF we obtain the saved HDD under the name of 'stacy'. 
