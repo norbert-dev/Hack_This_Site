@@ -14,10 +14,8 @@ Mission description (detailed)::
     and no other person was present in the home or in the picture.
 
 As the forensic specialist for our law firm, are you able to detect any digital manipulation within this image?
-
- This is the given link for the image ## -Image link- ##
  
-![alt text](https://github.com/norbert-dev/Hack_This_Site/Forensic Missions/Mission 2/selfie.jpg?raw=true)
+![alt text](https://https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%202/selfie.jpg?raw=true)
 
 How do we get started?
 	
