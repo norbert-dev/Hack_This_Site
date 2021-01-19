@@ -40,7 +40,7 @@ If you hover the mouse pointer over the uploaded pic this is what you get.
     
 And there it goes.
     
-    ![](ela-solution-kk30t1dm.png)
+<img src="https://github.com/norbert-dev/Hack_This_Site/blob/main/Forensic%20Missions/Mission%202/ELA%20solution.png">
     
 Password is:: ELA4LIFE!!  [ ELA 4 LIFE !! ]
     
