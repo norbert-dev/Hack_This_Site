@@ -17,7 +17,7 @@ As the forensic specialist for our law firm, are you able to detect any digital 
 
  This is the given link for the image ## -Image link- ##
  
- >> Note for myself << Insert image here
+![alt text](https://github.com/norbert-dev/Hack_This_Site/Forensic Missions/Mission 2/selfie.jpg?raw=true)
 
 How do we get started?
 	
