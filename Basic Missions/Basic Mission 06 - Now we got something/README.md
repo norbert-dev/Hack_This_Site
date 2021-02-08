@@ -24,31 +24,39 @@ Ok but how? No infos we got on reversing the code. So Lets stick to my second op
 
 First trying all letters numbers would take a long time randomly.
 
+
 So let us see what we get if we enter just 1 `a` into the form. We might can get a patern. 
+
 
 The answer is `a = a`
 
 so now lets add a few more a's to it.
 
+
 Lets make it 5 a's that should give some result.
 
 By entering 5 a's we get `aaaaa = abcde` do you see the patern?
 
-Let me do one last thing and I'll explain after lets see we have an encrypted 8 digit psw. So lets enter 8 a's and I can tell thet it will give me back this.
+
+Let me do one last thing and I'll explain after lets see we have an encrypted 8 digit psw. 
+So lets enter 8 a's and I can tell thet it will give me back this.
 
 `aaaaaaaa = abcdefgh`
 
 CHECH IT if you doubt me but this is the result.
 
+
 So we have a patern the first digit doesnt change the 2nd skips 1 char the 3rd skipps 2 etc. So for the 8 digits it will be
 
 `0 +1 +2 +3 +4 +5 +6 +7` 
 
-for the skipped letters. Now we can easily assign a number value to the encrypted digits just look up the ASCII codes by ASCII the encryped code looks like this 
+for the skipped letters. 
+Now we can easily assign a number value to the encrypted digits just look up the ASCII codes by ASCII the encryped code looks like this 
 
 ` 049 052 103 056 104 058 063 049`
 
-Now all we have to do is reversing the code so instead of + we deduct the amounts from the ASCII numbers. Use ASCII code chart that helps a lot here.
+Now all we have to do is reversing the code so instead of + we deduct the amounts from the ASCII numbers. 
+Use ASCII code chart that helps a lot here.
 
 `0 -1 -2 -3 -4 -5 -6 -7`
 
