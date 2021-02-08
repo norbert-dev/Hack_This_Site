@@ -48,7 +48,8 @@ General mission overviews:
         
         Mission 9::
         
-        	The password is again hidden in an unknown file. However, the script that was previously used to find it has some limitations. 
+        	The password is again hidden in an unknown file. 
+		However, the script that was previously used to find it has some limitations. 
 		Requirements: Knowledge of SSI, unix directory structure.
         
         Mission 10::
